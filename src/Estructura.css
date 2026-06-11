@@ -1,0 +1,17 @@
+.cabecera{
+    background-color: rgb(235, 109, 109);
+    padding: 15px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.cabecera a{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+.pie{
+    background-color: rgb(235, 109, 109);
+    padding: 15px;
+    text-align: center;
+    color: white;
+}
